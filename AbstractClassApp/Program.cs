@@ -22,7 +22,7 @@ class Circle : Shape
     }
 }
 
-// ⬛ Rectangle class (inherits from Shape)
+// Rectangle class (inherits from Shape)
 class Rectangle : Shape
 {
     public double Width { get; set; }
